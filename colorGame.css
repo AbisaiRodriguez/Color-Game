@@ -41,6 +41,7 @@ button {
     letter-spacing: 1px;
     font-size: inherit;
     height: 100%;
+    outline: none;
 }
 
 #message {
